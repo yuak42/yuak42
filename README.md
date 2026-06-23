@@ -1,3 +1,5 @@
+Websites -> yuak42.github.io, yunemak.github.io
+
 # Hi there, I'm Yunus Emre 👋
 
 ### 🚀 About Me
@@ -46,7 +48,7 @@ Right now, I am willing to advance to one of two fascinating worlds and shaping 
 
 ### 🎯 Gelecek Yol Haritası / İlgi Alanları
 * [ ] 42 Core Müfredatını Tamamlamak
-* [ ] Linux Çekirdek geliştirme ve işletim sistemi mimarisine derinlemesine dalmak
+* [ ] Linux Çekirdek geliştirme ve işletim sistemi mimarisinde derinleşme
 * [ ] Ölçeklenebilir Makine Öğrenmesi modelleri ve yapay zeka prototipleri geliştirmek
 
 ### 📫 İletişim
