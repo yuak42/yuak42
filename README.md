@@ -29,7 +29,7 @@ Right now, I am willing to advance to one of two fascinating worlds and shaping 
 
 ---
 
-# 👋 Selam, Ben [Adın/Kullanıcı Adın] 
+# Selam, Ben Yunus Emre 👋
 
 ### 🚀 Hakkımda
 **42 İstanbul** bünyesinde, okulun o disiplinli ve yoğun **klasik müfredatında** ilerleyen bir yazılım mühendisliği öğrencisiyim. Temelim; alt seviye programlama (C/C++), problem çözme ve akran öğrenimi (peer-to-peer) üzerine kurulu.
