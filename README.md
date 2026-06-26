@@ -1,4 +1,4 @@
-Websites -> yuak42.github.io, yunemak.github.io
+Websites -> [yuak42.github.io](https://yuak42.github.io), [yunemak.github.io](https://yunemak.github.io)
 
 # Hi there, I'm Yunus Emre 👋
 
