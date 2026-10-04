@@ -24,7 +24,7 @@ Right now, I am willing to advance to one of two fascinating worlds and shaping 
 
 ### 📫 Connect with Me
 * **42 Intra:** `yuak`
-* **Email** `yuak@student.42istanbul.com.tr`
+* **Email** `yeak558@gmail.com`
 * **LinkedIn:** [Profile](https://www.linkedin.com/in/yunus-emre-ak-83b103249/)
 
 ---
