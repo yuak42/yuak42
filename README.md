@@ -53,7 +53,7 @@ Right now, I am willing to advance to one of two fascinating worlds and shaping 
 
 ### 📫 İletişim
 * **42 Intra:** `yuak`
-* **E-posta** `yuak@student.42istanbul.com.tr`
+* **E-posta** `yeak558@gmail.com`
 * **LinkedIn:** [Profilim](https://www.linkedin.com/in/yunus-emre-ak-83b103249/)
 
 <p align="center"><i>“Success is not magic, it’s a peer-to-peer process.”</i> 🚀</p>
